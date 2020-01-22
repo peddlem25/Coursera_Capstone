@@ -13,5 +13,5 @@ Write some markdown to explain that this notebook will be mainly used for the ca
 Import the pandas library as pd.
 Import the Numpy library as np.
 Print the following the statement: Hello Capstone Project Course!
+
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
-Thank you in advance for reviewing. I used Google CoLab as my Jupyter Notebook. If you haven't used Google Colab I'd check it out as you can use googles servers as computer power. Coming in handy when you need to train/test and ML model. 
